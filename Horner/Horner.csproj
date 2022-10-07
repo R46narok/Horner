@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>R46narok</Authors>
+        <PackageProjectUrl>https://github.com/r46narok/horner</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/r46narok/horner</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>

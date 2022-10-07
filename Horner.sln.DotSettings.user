@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=347b8dce_002Dc9c7_002D4197_002Db616_002D01985cd7b8f9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Degree3_ShouldFindSolutions #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3C824212-71BC-44EE-ADB1-B274766361A8::net6.0::Horner.Tests.Polynomials.Degree3_ShouldFindSolutions&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2eb697f_002D6564_002D4930_002Db4d8_002Df8de75cea282/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Degree3_ShouldFindSolutions" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3C824212-71BC-44EE-ADB1-B274766361A8::net6.0::Horner.Tests.Polynomials.Degree3_ShouldFindSolutions&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b898c9ae_002Dd503_002D4994_002Dbc8b_002D464b1c73e7a6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Degree3_ShouldFindSolutions #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3C824212-71BC-44EE-ADB1-B274766361A8::net6.0::Horner.Tests.Polynomials.Degree3_ShouldFindSolutions&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
